@@ -82,7 +82,7 @@ static void throwInvocationTargetException(JNIEnv * env, jthrowable throwable) {
 
 //static Queue MethodCache = {NULL, NULL};
 
-//TODO: Fix this shit!
+//TODO: Fix this!
 /*static jmethodID getMethodId(JNIEnv * env, jobject mth) {
     return ENV FromReflectedMethod(env, mth);
     Node node = MethodCache.start;
@@ -374,7 +374,7 @@ JNIEXPORT void JNICALL Java_com_henryrenyz_creflect_ReflectLibImpl_callMethodVoi
 
 //static Queue FieldCache = {NULL, NULL};
 
-//TODO: Fix this shit
+//TODO: Fix this!
 /*static jfieldID getFieldId(JNIEnv * env, jobject field) {
     return ENV FromReflectedField(env, field);
     Node node = FieldCache.start;
