@@ -1,4 +1,8 @@
 # Project exclude paths
 /natives/
-/src/main/java/com/henryrenyz/creflect/ReflectUtil/
+/src/main/java/com/henryrenyz/creflect/ReflectUtil/.idea
+/src/main/java/com/henryrenyz/creflect/ReflectUtil/backup
+/src/main/java/com/henryrenyz/creflect/ReflectUtil/cmake-build-debug
+/src/main/java/com/henryrenyz/creflect/ReflectUtil/cmake-build-release-x32
+/src/main/java/com/henryrenyz/creflect/ReflectUtil/cmake-build-release-x64
 /target/

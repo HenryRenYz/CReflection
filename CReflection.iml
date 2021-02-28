@@ -9,8 +9,13 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/.idea" />
       <excludeFolder url="file://$MODULE_DIR$/natives" />
+      <excludeFolder url="file://$MODULE_DIR$/out" />
       <excludeFolder url="file://$MODULE_DIR$/src/main/java/JNIReflect" />
-      <excludeFolder url="file://$MODULE_DIR$/src/main/java/com/henryrenyz/creflect/ReflectUtil" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/com/henryrenyz/creflect/ReflectUtil/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/com/henryrenyz/creflect/ReflectUtil/backup" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/com/henryrenyz/creflect/ReflectUtil/cmake-build-debug" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/com/henryrenyz/creflect/ReflectUtil/cmake-build-release-x32" />
+      <excludeFolder url="file://$MODULE_DIR$/src/main/java/com/henryrenyz/creflect/ReflectUtil/cmake-build-release-x64" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
