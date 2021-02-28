@@ -1,0 +1,4 @@
+# Project exclude paths
+/natives/
+/src/main/java/com/henryrenyz/creflect/ReflectUtil/
+/target/
